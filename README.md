@@ -1,5 +1,5 @@
 # 💻 Adarsh K Poojary:
-🚀 Software Engineer | Full Stack Developer | Embedded Systems Enthusiast
+🚀 Software Engineer | Full Stack Developer | Embedded Systems Enthusiast | Indian Equities Enthusiast
 
 # 🔥 About Me:
 ◽Passionate Full Stack Developer experienced in MERN, Angular, and Java technologies.<br>◽Embedded systems enthusiast with expertise in ATV sensor-based projects and IoT.<br>◽Suspension & Electronics Subsystem Lead at Team SAENIEks, working on Electric ATV innovations.<br>◽Love experimenting with  Web Dev, and Software Development solutions.
